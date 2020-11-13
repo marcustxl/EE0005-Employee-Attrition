@@ -1,4 +1,4 @@
-# This is a Data Science and Artificial Intelligence Project done by Me and my 3 other groupmates (NTU Year 3 IEM Student)
+# This is a Data Science and Artificial Intelligence Project done by Me and my groupmates (NTU Year 3 IEM Student)
 
 # EmployeeAttrition
 The objective of this project is to Predict Attrition of IBM Employees based on different variables
